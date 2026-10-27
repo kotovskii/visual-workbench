@@ -1,0 +1,21 @@
+{
+  "version": "21.1.2+autismcraft.1",
+  "input_sha256": "f9bea7865d57c0f32075fc1e8b760d048cf77513c8d93fa41c181ad190eb4449",
+  "output_sha256": "1c11f3dce6c5c01ec1466f09fd2c0557393c5a3deaa8171a0f568a6b257bcca5",
+  "output": "C:\\GAMES\\Minecraft\\DEV\\visual-workbench\\local-build\\VisualWorkbench-v21.1.2+autismcraft.1-1.21.1-NeoForge.jar",
+  "source_sha256": "2a1ea18f8b5544b2cc02a7c02f0ecbebc852fc17238092fe8da04d5290f9108a",
+  "changed_entries": [
+    "META-INF/neoforge.mods.toml",
+    "fuzs/visualworkbench/client/VisualWorkbenchClient.class"
+  ],
+  "required_puzzleslib": "[21.1.58,)",
+  "compiled_against_puzzleslib": "puzzleslib-v21.1.62-mc1.21.1+neoforge.jar",
+  "java_release": 21,
+  "server_logic_unchanged": true,
+  "integrations_unchanged": [
+    "JEI",
+    "EMI"
+  ],
+  "mixins_unchanged": true,
+  "registries_and_resources_unchanged": true
+}
